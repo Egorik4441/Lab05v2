@@ -154,16 +154,17 @@ switch (level)
         break;
 }
 
+// ааа
 
-int score = 1;
+int scor = 1;
 
-string result = score switch
+string resultat = scor switch
 {
-    >= 12 => "Зима"
-    >= 10 => "Весна"
-    >= 3 => "Лето"
-    >= 2  => "Осень"
+    >= 12 => "Зима",
+    >= 10 => "Весна",
+    >= 3 => "Лето",
+    >= 2  => "Осень",
     _ => ""
 };
 
-Console.WriteLine(result);
+Console.WriteLine(resultat);
