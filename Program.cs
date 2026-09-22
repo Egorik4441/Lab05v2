@@ -113,8 +113,57 @@ string result = score switch
 
 Console.WriteLine(result);
 
+string role = "user";
+
+string result = role switch
+{
+    "admin" => "Полный доступ",
+    not "admin" => "Ограниченный доступ"
+};
+
+Console.WriteLine(result);
+
+int age = 20;
+bool hasTicket = true;
+
+switch (age)
+{
+    case >= 19 when hasTicket:
+        Console.WriteLine("Вход разрешён");
+        break;
+    case >= 18:
+        Console.WriteLine("Вход разрешён");
+        break;
+    default:
+        Console.WriteLine("Возраст не подходит");
+        break;   
+}
+
+int level = 2;
+
+switch (level)
+{
+    case 1:
+        Console.WriteLine("Начальный уровень");
+        break;
+    case 2:
+        Console.WriteLine("Начальный уровень");
+        goto case 1;
+    case 3:
+        Console.WriteLine("Продвинутый уровень");
+        break;
+}
 
 
+int score = 1;
 
+string result = score switch
+{
+    >= 12 => "Зима"
+    >= 10 => "Весна"
+    >= 3 => "Лето"
+    >= 2  => "Осень"
+    _ => ""
+};
 
-
+Console.WriteLine(result);
