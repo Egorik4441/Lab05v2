@@ -1,0 +1,14 @@
+C:\Users\Student_04\Documents\Lab05v2\obj\Debug\net10.0\Lab05v2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student_04\Documents\Lab05v2\obj\Debug\net10.0\Lab05v2.AssemblyInfoInputs.cache
+C:\Users\Student_04\Documents\Lab05v2\obj\Debug\net10.0\Lab05v2.AssemblyInfo.cs
+C:\Users\Student_04\Documents\Lab05v2\obj\Debug\net10.0\Lab05v2.csproj.CoreCompileInputs.cache
+C:\Users\Student_04\Documents\Lab05v2\bin\Debug\net10.0\Lab05v2.exe
+C:\Users\Student_04\Documents\Lab05v2\bin\Debug\net10.0\Lab05v2.deps.json
+C:\Users\Student_04\Documents\Lab05v2\bin\Debug\net10.0\Lab05v2.runtimeconfig.json
+C:\Users\Student_04\Documents\Lab05v2\bin\Debug\net10.0\Lab05v2.dll
+C:\Users\Student_04\Documents\Lab05v2\bin\Debug\net10.0\Lab05v2.pdb
+C:\Users\Student_04\Documents\Lab05v2\obj\Debug\net10.0\Lab05v2.dll
+C:\Users\Student_04\Documents\Lab05v2\obj\Debug\net10.0\refint\Lab05v2.dll
+C:\Users\Student_04\Documents\Lab05v2\obj\Debug\net10.0\Lab05v2.pdb
+C:\Users\Student_04\Documents\Lab05v2\obj\Debug\net10.0\Lab05v2.genruntimeconfig.cache
+C:\Users\Student_04\Documents\Lab05v2\obj\Debug\net10.0\ref\Lab05v2.dll
